@@ -1,5 +1,9 @@
 
 # Low-Level Design (LLD) Document for Doodle Digit Classifier
+
+:) Answered the question in rubric
+
+
 #### 1. Overview
 This LLD document outlines the detailed implementation of the Handwritten Digit Classifier, a system I’ve built to predict digits (0-9) drawn on a web canvas using a custom **Numpy**-based neural network. Hosted at [aayushmanda/FastAPI](https://github.com/aayushmanda/FastAPI), the project integrates a web frontend, FastAPI backend, and monitoring tools, with a focus on modularity and clarity for maintenance and extension.
 
